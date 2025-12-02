@@ -1,0 +1,9 @@
+{
+    "name": "@maryam-skaik/shared",
+    "version": "0.1.4",
+    "type": "module",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/",
+        "access": "public"
+    }
+}
